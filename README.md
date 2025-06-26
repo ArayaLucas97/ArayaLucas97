@@ -2,6 +2,6 @@
 
 <div id="user">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Lucas</h1></summary>
+      <h1 style="display: inline-block">Hola 👋, soy Lucas</h1>
   </ul>
 </div>
