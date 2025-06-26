@@ -12,6 +12,8 @@ Soy estudiante en Licenciatura en Sistemas.
 Lenguajes y Herramientas
 
 
+
+
 <h2 align="center"> Github Estadisticas 📈 </h2>
  <div align="center"> 
      <a href="">
@@ -20,3 +22,11 @@ Lenguajes y Herramientas
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
     </a>
+
+<div id="user">
+  <ul align ="center">
+    <h2 style="display: inline-block">Contacto</h2>
+  </ul>
+</div>
+
+
