@@ -5,6 +5,10 @@
   <p align="center">Desarrollador en crecimiento | Apasionado por Java & Linux 🐧</p>
 </div>
 
-##Soy estudiante en Licenciatura en Sistemas.
+Soy estudiante en Licenciatura en Sistemas.
 
 📚 Estoy aprendiendo sobre tecnologias backend y frontend.
+
+Lenguajes y Herramientas
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+
