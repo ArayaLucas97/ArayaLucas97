@@ -10,7 +10,12 @@ Soy estudiante en Licenciatura en Sistemas.
 📚 Estoy aprendiendo sobre tecnologias backend y frontend.
 
 Lenguajes y Herramientas
-
+<!--iconos-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,html,java,kubernetes&perline=14" />
+  </a>
+</p>
 
 
 <!-- Estadísticas -->
