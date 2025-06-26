@@ -10,5 +10,7 @@ Soy estudiante en Licenciatura en Sistemas.
 📚 Estoy aprendiendo sobre tecnologias backend y frontend.
 
 Lenguajes y Herramientas
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+
+
+<h2 align="center"> Github Statistics 📈 </h2>
 
