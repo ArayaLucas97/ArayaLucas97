@@ -5,4 +5,6 @@
   <p align="center">Desarrollador en crecimiento | Apasionado por Java & Linux 🐧</p>
 </div>
 
+##Soy estudiante en Licenciatura en Sistemas.
+
 📚 Estoy aprendiendo sobre tecnologias backend y frontend.
