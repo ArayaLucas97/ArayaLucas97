@@ -14,12 +14,16 @@ Lenguajes y Herramientas
 
 
 
-<h2 align="center"> Github Estadisticas 📈 </h2>
- <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
- </div>
+<p align="center">
+  
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
 <div id="user">
   <ul align ="center">
