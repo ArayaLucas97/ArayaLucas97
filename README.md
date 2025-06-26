@@ -5,3 +5,4 @@
   <p align="center">Desarrollador en crecimiento | Apasionado por Java & Linux 🐧</p>
 </div>
 
+📚 Estoy aprendiendo sobre tecnologias backend y frontend.
