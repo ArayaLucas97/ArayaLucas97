@@ -11,7 +11,7 @@ Soy estudiante en Licenciatura en Sistemas.
 
 Lenguajes y Herramientas
 <!--iconos-->
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,html,java" />
   </a>
@@ -19,7 +19,7 @@ Lenguajes y Herramientas
 
 
 <!-- Estadísticas -->
-<table>
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ArayaLucas97&theme=dark&show_icons=true&count_private=true" />
