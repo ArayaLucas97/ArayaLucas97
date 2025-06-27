@@ -13,7 +13,7 @@ Lenguajes y Herramientas
 <!--iconos-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,html,java" />
+    <img src="https://skillicons.dev/icons?i=discord,github,html,java,git" />
   </a>
 </p>
 
@@ -33,7 +33,9 @@ Lenguajes y Herramientas
 <p align="center">
   <a href="http://www.linkedin.com/in/lucas-araya-a85139220/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  
   </a>
 </p>
 
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
