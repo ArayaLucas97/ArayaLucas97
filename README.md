@@ -5,9 +5,11 @@
   <p align="center">Desarrollador en crecimiento </p>
 </div>
 
-Soy estudiante en Licenciatura en Sistemas.
+Soy estudiante en Licenciatura en Sistemas.Me encuentro ampliando mis conocimientos
+en backen y frontend. 
+🌱Actualmente estoy aprendiendo Java y MySQL.
+🎮 Me gusta Jugar videojuegos y escuchar musica🎵.
 
-📚 Estoy aprendiendo sobre tecnologias backend y frontend.
 
 Lenguajes y Herramientas
 <!--iconos-->
