@@ -2,7 +2,7 @@
 
 <div id="user">
   <h1 align="center">Hola 👋, soy Lucas</h1>
-  <p align="center">Desarrollador en crecimiento | Apasionado por Java & Linux 🐧</p>
+  <p align="center">Desarrollador en crecimiento </p>
 </div>
 
 Soy estudiante en Licenciatura en Sistemas.
