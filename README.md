@@ -13,7 +13,7 @@ en backen y frontend.
 
 Lenguajes y Herramientas
 <!--iconos-->
-<p>
+<p aling="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,html,java,git" />
   </a>
