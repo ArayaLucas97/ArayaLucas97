@@ -22,6 +22,7 @@ en backen y frontend.
 <table align="center">
   <tr>
     <td width="50%" align="center">
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasaraya97_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
       <img src="https://github-readme-stats.vercel.app/api?username=ArayaLucas97&theme=dark&show_icons=true&count_private=true" /><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArayaLucas97&layout=compact&theme=dark" />
   </tr>
