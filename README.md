@@ -25,8 +25,6 @@ Lenguajes y Herramientas
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ArayaLucas97&theme=dark&show_icons=true&count_private=true" />
-      <br><br>
-    </td>
   </tr>
 </table>
 
