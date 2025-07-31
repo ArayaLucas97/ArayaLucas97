@@ -14,6 +14,7 @@ en backen y frontend.
 Lenguajes y Herramientas
 <!--iconos-->
 <p align="center">
+  <a>Lenguajes y Herramientas</a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,html,java,git" />
   </a>
