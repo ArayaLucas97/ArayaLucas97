@@ -14,7 +14,7 @@ en backen y frontend.
 <p align="center">
   <a>Lenguajes y Herramientas</a><br>
   <br><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,html,java,git" />
+    <img src="https://skillicons.dev/icons?i=github,html,java,git" />
   </a>
 </p>
 
@@ -31,6 +31,7 @@ en backen y frontend.
 <h2 align="center">Contacto</h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/lucas-araya-a85139220/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord"/>
   <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   
   </a>
