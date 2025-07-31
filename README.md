@@ -25,6 +25,7 @@ Lenguajes y Herramientas
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ArayaLucas97&theme=dark&show_icons=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArayaLucas97&layout=compact&theme=dark" />
   </tr>
 </table>
 
@@ -36,7 +37,5 @@ Lenguajes y Herramientas
   
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArayaLucas97&layout=compact&theme=dark" />
-
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
