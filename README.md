@@ -7,7 +7,7 @@
 
 Soy estudiante en Licenciatura en Sistemas.Me encuentro ampliando mis conocimientos
 en backen y frontend. 
-🌱Actualmente estoy aprendiendo Java y MySQL.
+🌱Actualmente estoy aprendiendo Java.
 🎮 Me gusta Jugar videojuegos y escuchar musica🎵.
 
 <!--iconos-->
